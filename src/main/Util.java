@@ -11,5 +11,5 @@ public class Util {
 			Color.WHITE, Color.MAGENTA };
 	public static Color[] colors;
 
-	public static int GAME_SIZE = 900;
+	public static int GAME_SIZE = 600;
 }
